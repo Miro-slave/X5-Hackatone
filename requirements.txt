@@ -1,0 +1,10 @@
+pydantic
+fastapi
+numpy
+requests
+evaluate
+protobuf
+uvicorn
+tiktoken
+fastapi[standard]
+asyncio
