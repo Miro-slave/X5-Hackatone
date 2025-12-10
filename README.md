@@ -3,7 +3,7 @@
 
 Обучение модели реализуется в Jupyter notebook в файле train_model.ipynb
 
-В качестве альтернативы можно скачать модель отсюда: https://drive.google.com/drive/folders/1rrzQABDhPPhzNBOkdOmTxGHeHJzrnf1L?usp=sharing
+В качестве альтернативы можно взять модель отсюда: https://drive.google.com/drive/folders/1rrzQABDhPPhzNBOkdOmTxGHeHJzrnf1L?usp=sharing
 
 и поместить в папку models/FacebookAI
 
