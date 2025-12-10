@@ -7,7 +7,7 @@
 
 и поместить в папку models/FacebookAI
 
-Запуск API сервиса
+Запуск API сервиса:
 ```
 docker build -t app-api:latest .
 
